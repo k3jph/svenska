@@ -1,11 +1,11 @@
-site_name: Danish Language Resources
-site_description: Resources and information for English-speakers learning Danish
+site_name: Swedish Language Resources
+site_description: Resources and information for English-speakers learning Swedish
 site_author: James P. Howard, II
 copyright: Copyright &copy; 2015&mdash;2020 James P. Howard, II.
-site_url: https://k3jph.github.io/dansk
+site_url: https://k3jph.github.io/svenska
 
-repo_name: 'k3jph/dansk'
-repo_url: https://github.com/k3jph/dansk
+repo_name: 'k3jph/svenska'
+repo_url: https://github.com/k3jph/svenska
 
 use_directory_urls: true
 
