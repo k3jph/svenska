@@ -12,12 +12,8 @@ use_directory_urls: true
 nav:
     - Welcome: index.md
     - Memrise: memrise.md
-    - DanishClass101: danishclass101.md
-    - Danish Lessons with Marty: marty.md
-    - Podcasts: podcasts.md
+    - SwedishPod101: swedishpod101.md
     - Chat: chat.md
-    - Playlists: playlists.md
-    - Humor: humor.md
 
 # Configuration
 theme:
