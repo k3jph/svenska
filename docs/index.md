@@ -1,6 +1,6 @@
 # Welcome
 
-Welcome to Swedish Language Resources_.  This interactive document
+Welcome to _Swedish Language Resources_.  This interactive document
 is an evolving work that collects resources for English speakers
 who are learning the Swedish language.  I started this when I was
 working through the Swedish language course on
