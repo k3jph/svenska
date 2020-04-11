@@ -1,16 +1,23 @@
 site_name: Danish Language Resources
 site_description: Resources and information for English-speakers learning Danish
 site_author: James P. Howard, II
-copyright: Copyright &copy; 2020 James P. Howard, II.
+copyright: Copyright &copy; 2015&mdash;2020 James P. Howard, II.
 site_url: https://k3jph.github.io/dansk
 
 repo_name: 'k3jph/dansk'
-repo_url:  https://k3jph.github.io/dansk
+repo_url: https://github.com/k3jph/dansk
 
 use_directory_urls: true
 
 nav:
     - Welcome: index.md
+    - Memrise: memrise.md
+    - DanishClass101: danishclass101.md
+    - Danish Lessons with Marty: marty.md
+    - Podcasts: podcasts.md
+    - Chat: chat.md
+    - Playlists: playlists.md
+    - Humor: humor.md
 
 # Configuration
 theme:
@@ -34,12 +41,14 @@ extra:
       link: 'https://jameshoward.us'
     - type: 'twitter'
       link: 'https://twitter.com/k3jph'
+    - type: 'facebook'
+      link: 'https://www.facebook.com/k3jph'
     - type: 'linkedin'
       link: 'https://www.linkedin.com/in/k3jph'
 
 # Google Analytics
 google_analytics:
-  - 'UA-79581-12'
+  - 'UA-79581-13'
   - 'auto'
 
 # Extensions
