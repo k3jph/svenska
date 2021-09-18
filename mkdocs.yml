@@ -25,22 +25,6 @@ theme:
   font:
     text: 'Roboto'
     code: 'Roboto Mono'
-  logo:
-    icon: 'group'
-  custom_dir: 'theme'
-
-# Customization
-extra:
-  manifest: 'manifest.webmanifest'
-  social:
-    - type: 'globe'
-      link: 'https://jameshoward.us'
-    - type: 'twitter'
-      link: 'https://twitter.com/k3jph'
-    - type: 'facebook'
-      link: 'https://www.facebook.com/k3jph'
-    - type: 'linkedin'
-      link: 'https://www.linkedin.com/in/k3jph'
 
 # Google Analytics
 google_analytics:
